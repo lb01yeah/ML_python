@@ -19,3 +19,6 @@ plt.xlabel("label:x")
 plt.ylabel("sin(x)")
 plt.show()
 
+# ∑, Sigma, 希腊字母(念: 西格玛)
+# θ  西塔 Theta 温度；相位角
+
